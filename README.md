@@ -28,11 +28,13 @@ The lab is designed to simulate a real-world SOC environment where I can detect,
 
 - Wazuh Installation
 - Suricata Integration
+- Diamorphine
 - Nmap Scan Detection
 - SSH Brute Force Detection
 - File Integrity Monitoring
 - Threat Hunting
 - Incident Reports
+- automating virus total
 - Detection Rules
 
 ## Goal
